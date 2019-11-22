@@ -28,4 +28,4 @@ dependencies:
   - wincertstore=0.2=py37_0
   - wrapt=1.11.2=py37he774522_0
   - zlib=1.2.11=vc14h1cdd9ab_1
-prefix: C:\Users\hhlhe\Anaconda3\envs\envDPG001_clone001
+prefix: C:\Users\hhlhe\Anaconda3\envs\envDPG001
